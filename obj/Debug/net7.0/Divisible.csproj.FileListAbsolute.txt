@@ -1,0 +1,15 @@
+C:\Mon_Code\Divisible\bin\Debug\net7.0\Divisible.exe
+C:\Mon_Code\Divisible\bin\Debug\net7.0\Divisible.deps.json
+C:\Mon_Code\Divisible\bin\Debug\net7.0\Divisible.runtimeconfig.json
+C:\Mon_Code\Divisible\bin\Debug\net7.0\Divisible.dll
+C:\Mon_Code\Divisible\bin\Debug\net7.0\Divisible.pdb
+C:\Mon_Code\Divisible\obj\Debug\net7.0\Divisible.csproj.AssemblyReference.cache
+C:\Mon_Code\Divisible\obj\Debug\net7.0\Divisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Divisible\obj\Debug\net7.0\Divisible.AssemblyInfoInputs.cache
+C:\Mon_Code\Divisible\obj\Debug\net7.0\Divisible.AssemblyInfo.cs
+C:\Mon_Code\Divisible\obj\Debug\net7.0\Divisible.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Divisible\obj\Debug\net7.0\Divisible.dll
+C:\Mon_Code\Divisible\obj\Debug\net7.0\refint\Divisible.dll
+C:\Mon_Code\Divisible\obj\Debug\net7.0\Divisible.pdb
+C:\Mon_Code\Divisible\obj\Debug\net7.0\Divisible.genruntimeconfig.cache
+C:\Mon_Code\Divisible\obj\Debug\net7.0\ref\Divisible.dll
