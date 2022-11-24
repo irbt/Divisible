@@ -5,26 +5,18 @@ namespace Divisibleby2or3{
 class Divisible23{
 
 
-static int Divisible(int int1 , int int2){
-    int resultat;
+static int Divisible2OR3(int int1 , int int2){
+    //int resultat;
 
-if (((int1 % 2) == 0  | (int1 % 3) == 0) &  ((int2 % 2) == 0  | (int2 % 3) == 0)){
-    resultat = int1 * int2 ;
-    Console.WriteLine(int1 + " et " + int2 + "sont divisibles par 2 ou 3 donc on multiplie ->" + resultat) ;
-    return resultat;
-}else{
-    resultat = int1 + int2 ;
-    Console.WriteLine(int1 + " et " + int2 + "ne sont pas  divisibles par 2 ou 3 donc on ajoute  ->" + resultat) ;
-    return resultat;
-}
+return ((((int1 % 2) == 0  | (int1 % 3) == 0) &  ((int2 % 2) == 0  | (int2 % 3) == 0)) ? int1 * int2 : int1 + int2);
 
 }
 
 static void Main (string[] args){
 
-    Divisible(15,30);
-    Divisible(2,90);
-    Divisible(7,12);
+   Console.WriteLine( Divisible2OR3(15,30));
+   Console.WriteLine( Divisible2OR3(2,90));
+   Console.WriteLine( Divisible2OR3(7,12));
 }
 
 }}
